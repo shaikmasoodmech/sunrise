@@ -1,3 +1,8 @@
 # sunrise
+<<<<<<< HEAD
+hi this is masood 
+entring new world
 
-hi everyone i am new here
+
+
+
